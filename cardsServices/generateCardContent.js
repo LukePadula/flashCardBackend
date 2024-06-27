@@ -1,5 +1,4 @@
-const OPENAI_API_KEY =
-  "sk-proj-mNd5GRKhRl0V9Bycxyn8T3BlbkFJSwIzcIyt2wXjmWYk3KcP";
+const OPENAI_API_KEY = "";
 const axios = require("axios");
 
 generateCardContent = async (content) => {
